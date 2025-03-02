@@ -1,1 +1,1 @@
-# A201-Fundamentals-of-Agentic-AI-Online
+# AI-201-Fundamentals-of-Agentic-AI-Online
